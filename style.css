@@ -3,11 +3,12 @@ body{
     text-align: center;
 }
 .kanan {
+    display: flex;
+    justify-content: center;
     text-align: left;
-    display: inline-block;
     margin-top: -30px;
     font-style: italic;
-    font-size: medium;
+
 }
 .kotak{
     margin: 50px auto;
