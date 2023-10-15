@@ -2,6 +2,13 @@
 body{
     text-align: center;
 }
+.kanan {
+    text-align: left;
+    display: inline-block;
+    margin-top: -30px;
+    font-style: italic;
+    font-size: medium;
+}
 .kotak{
     margin: 50px auto;
     padding-right: 40px;
@@ -10,24 +17,27 @@ body{
     height: 200px;
     background-color: salmon;
     border-radius: 10px;
+    border: 3px solid rgb(0, 0, 0);
 }
 .satu{
     margin-top: 10px;
     background-color: skyblue;
     padding-right: 40px;
+    border: 3px solid rgb(0, 0, 0);
 }
 .info{
+    border: 3px solid rgb(0, 0, 0);
     font-weight: bold;
     color: white;
     font-size: 24px;
     line-height: 50px;
-    border-radius: 5%;
+    border-radius: 500px;
     margin: auto;
     margin-top: -40px;
     margin-bottom: -40px;
     width: 150px;
     height: 50px;
-    background-color: rgb(3, 161, 56);
+    background-color: rgb(92, 30, 126);
 }
 .skorComp{
     border-radius: 50px;
@@ -41,6 +51,7 @@ body{
     background-color: rgb(255, 255, 255);
     font-weight: bold;
     font-size: 15px;
+    border: 3px solid rgb(0, 0, 0);
 }
 .skorPlayer{
     border-radius: 50px;
@@ -54,9 +65,11 @@ body{
     background-color: rgb(255, 255, 255);
     font-weight: bold;
     font-size: 15px;
+    border: 3px solid rgb(0, 0, 0);
 }
 ul li {
     display: inline-block;
+    padding-top: 20px;
 }
 img{
     cursor: pointer;
