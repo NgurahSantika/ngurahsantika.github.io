@@ -42,30 +42,30 @@ body{
 }
 .skorComp{
     border-radius: 50px;
-    width: 30px;
-    height: 30px;
-    line-height: 30px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
     margin:auto ;
     position: absolute;
     margin-left: 20px;
     margin-top: -20px; 
     background-color: rgb(255, 255, 255);
     font-weight: bold;
-    font-size: 15px;
+    font-size: 35px;
     border: 3px solid rgb(0, 0, 0);
 }
 .skorPlayer{
     border-radius: 50px;
-    width: 30px;
-    height: 30px;
-    line-height: 30px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
     margin:auto ;
     position: absolute;	
     margin-left: 20px;
     margin-top: -20px;
     background-color: rgb(255, 255, 255);
     font-weight: bold;
-    font-size: 15px;
+    font-size: 35px;
     border: 3px solid rgb(0, 0, 0);
 }
 ul li {
