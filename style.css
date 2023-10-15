@@ -1,0 +1,64 @@
+
+body{
+    text-align: center;
+}
+.kotak{
+    margin: 50px auto;
+    padding-right: 40px;
+    padding-top: 40px;
+    width: 400px;
+    height: 200px;
+    background-color: salmon;
+    border-radius: 10px;
+}
+.satu{
+    margin-top: 10px;
+    background-color: skyblue;
+    padding-right: 40px;
+}
+.info{
+    font-weight: bold;
+    color: white;
+    font-size: 24px;
+    line-height: 50px;
+    border-radius: 5%;
+    margin: auto;
+    margin-top: -40px;
+    margin-bottom: -40px;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(3, 161, 56);
+}
+.skorComp{
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    margin:auto ;
+    position: absolute;
+    margin-left: 390px;
+    margin-top: -20px; 
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 15px;
+}
+.skorPlayer{
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    margin:auto ;
+    position: absolute;	
+    margin-left: 390px;
+    margin-top: -20px;
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 15px;
+}
+ul li {
+    display: inline-block;
+}
+img{
+    cursor: pointer;
+    
+}
