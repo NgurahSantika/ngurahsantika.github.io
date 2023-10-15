@@ -1,4 +1,3 @@
-alert('INI ADALAH PERMAINAN SUWIT JAWA, ANDA ADALAH PLAYER BEWARNA MERAH');
 const acakWarna = document.getElementById('acakWarna');
 acakWarna.addEventListener('click', function(){
 	const r = Math.round(Math.random() * 255);
